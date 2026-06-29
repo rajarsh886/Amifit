@@ -8,10 +8,6 @@
 
 ---
 
-##  Try It Out
-
- **Live Demo:** [amifitntcc.netlify.app](https://amifitntcc.netlify.app)
-No installation needed — just open, allow your webcam, and get moving!
 
 ---
 
