@@ -98,7 +98,7 @@ Want to run it on your own machine? Here’s how:
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/BhanuPrakashPandey0843/Amifit.git
+git clone https://github.com/rajarsh886/Amifit.git
 cd Amifit
 ```
 
@@ -138,16 +138,16 @@ node index.js
 
 ## 👨‍💻 Made With ❤️ by
 
-**Bhanu Prakash Pandey**
+**Arsh Raj**
 🎓 B.Tech CSE (2021–2025)
-🔗 [GitHub Profile](https://github.com/BhanuPrakashPandey0843)
+🔗 [GitHub Profile](https://github.com/rajarsh886)
 
 ---
 
 ## 📬 Let's Connect
 
 Want to collaborate, suggest improvements, or use this for your team or institution?
-Open a [GitHub issue](https://github.com/BhanuPrakashPandey0843/Amifit/issues) or drop a message!
+Open a [GitHub issue](https://github.com/rajarsh886/Amifit/issues) or drop a message!
 
 ---
 
